@@ -37,7 +37,7 @@ The project uses the SUPPORT2 dataset, containing demographic, clinical, and hea
 
 ## Authors
 
-- Tamim-Dasf
+- Tamime Lahmer
 - Amira Sekhri
 
 ## Academic Project
